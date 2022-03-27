@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1c5176a5-8491-53d6-7b77-4b69219e8e84
 resourcetype: Document
 title: rq_face_percepti.pdf
 uid: efd7199d-ffd9-bb8a-550c-149ec9eeea1f

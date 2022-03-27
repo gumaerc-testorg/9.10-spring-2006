@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1c5176a5-8491-53d6-7b77-4b69219e8e84
 resourcetype: Document
 title: rq_motor_disorde.pdf
 uid: 25bb9326-3fc9-6eb2-bdb3-d10dccfab0fd

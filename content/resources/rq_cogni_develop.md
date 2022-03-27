@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1c5176a5-8491-53d6-7b77-4b69219e8e84
 resourcetype: Document
 title: rq_cogni_develop.pdf
 uid: 86ba6d4c-5242-9ba8-3068-94629faeab1e

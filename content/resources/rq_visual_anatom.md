@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1c5176a5-8491-53d6-7b77-4b69219e8e84
 resourcetype: Document
 title: rq_visual_anatom.pdf
 uid: b925be78-7d88-8dd5-67bc-5e075ac30c67
