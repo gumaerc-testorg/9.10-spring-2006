@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: c005b14b-aca3-e211-5cea-887b2e6e79d3
 ---
@@ -14,7 +15,7 @@ This course explores the cognitive and neural processes that support attention, 
 Textbook
 --------
 
-There are no required texts for this course; however, there is an extensive [reading list]({{< baseurl >}}/pages/readings) of primary research literature.
+There are no required texts for this course; however, there is an extensive {{< resource_link 2830bb6e-bab2-b2e8-7290-4413ab0b906f "reading list" >}} of primary research literature.
 
 Grading
 -------
