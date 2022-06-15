@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review questions on the somatosensory system.
-file: /media/courses/9-10-cognitive-neuroscience-spring-2006/b08ab97948c6125c033f4c54ef0fd896_rq_somatosensory.pdf
+file: /courses/9-10-cognitive-neuroscience-spring-2006/b08ab97948c6125c033f4c54ef0fd896_rq_somatosensory.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: rq_somatosensory.pdf
 uid: b08ab979-48c6-125c-033f-4c54ef0fd896
 ---
+Review questions on the somatosensory system.
+
