@@ -2,6 +2,7 @@
 content_type: resource
 description: Review questions on motor system anatomy and physiology.
 file: /courses/9-10-cognitive-neuroscience-spring-2006/0bdb9b113dbee5a293535b4dde1203e0_rq_motor_anatomy.pdf
+file_size: 60925
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

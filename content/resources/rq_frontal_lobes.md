@@ -2,6 +2,7 @@
 content_type: resource
 description: Review questions on frontal lobe functions.
 file: /courses/9-10-cognitive-neuroscience-spring-2006/159396721b13e04ce61947a9e23e035d_rq_frontal_lobes.pdf
+file_size: 63788
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
