@@ -2,6 +2,7 @@
 content_type: resource
 description: Review questions on visual system anatomy and physiology.
 file: /courses/9-10-cognitive-neuroscience-spring-2006/b925be787d888dd567bc5e075ac30c67_rq_visual_anatom.pdf
+file_size: 65848
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
