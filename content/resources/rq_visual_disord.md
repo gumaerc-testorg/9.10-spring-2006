@@ -2,6 +2,7 @@
 content_type: resource
 description: Review questions on visual system disorders.
 file: /courses/9-10-cognitive-neuroscience-spring-2006/9fcb13cc3a0df7b0abf775a57748a74b_rq_visual_disord.pdf
+file_size: 53781
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

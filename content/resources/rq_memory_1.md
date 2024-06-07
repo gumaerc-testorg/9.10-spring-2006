@@ -2,6 +2,7 @@
 content_type: resource
 description: Review questions on memory.
 file: /courses/9-10-cognitive-neuroscience-spring-2006/e18960837bab34cabd904bcfd9478f22_rq_memory_1.pdf
+file_size: 84974
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
