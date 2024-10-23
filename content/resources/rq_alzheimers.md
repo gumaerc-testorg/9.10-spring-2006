@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review questions on Alzheimer's disease.
-file: /courses/9-10-cognitive-neuroscience-spring-2006/9cd5ab75d3786ed95de91f272e149b80_rq_alzheimers.pdf
+file: /ol-ocw-studio-app/courses/9-10-cognitive-neuroscience-spring-2006/9cd5ab75d3786ed95de91f272e149b80_rq_alzheimers.pdf
 file_size: 57942
 file_type: application/pdf
 learning_resource_types: []

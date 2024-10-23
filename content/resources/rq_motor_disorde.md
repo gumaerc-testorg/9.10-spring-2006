@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review questions on motor system disorders.
-file: /courses/9-10-cognitive-neuroscience-spring-2006/25bb93263fc96eb2bdb3d10dccfab0fd_rq_motor_disorde.pdf
+file: /ol-ocw-studio-app/courses/9-10-cognitive-neuroscience-spring-2006/25bb93263fc96eb2bdb3d10dccfab0fd_rq_motor_disorde.pdf
 file_size: 52135
 file_type: application/pdf
 learning_resource_types: []
