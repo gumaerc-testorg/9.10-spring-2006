@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study questions to accompany the sheep brain dissection.
-file: /courses/9-10-cognitive-neuroscience-spring-2006/82405468975a08f7d7e10ce87a7a8456_dissection_qs.pdf
+file: /ol-ocw-studio-app/courses/9-10-cognitive-neuroscience-spring-2006/82405468975a08f7d7e10ce87a7a8456_dissection_qs.pdf
 file_size: 21873
 file_type: application/pdf
 learning_resource_types: []
