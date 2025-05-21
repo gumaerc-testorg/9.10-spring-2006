@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review questions on language.
-file: /ol-ocw-studio-app/courses/9-10-cognitive-neuroscience-spring-2006/c1d2e61dc174e96c0e87b3f88ebb9536_rq_language.pdf
+file: /courses/9-10-cognitive-neuroscience-spring-2006/c1d2e61dc174e96c0e87b3f88ebb9536_rq_language.pdf
 file_size: 73002
 file_type: application/pdf
 learning_resource_types: []
