@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review questions on the limbic system and functions of the hippocampus.
-file: /ol-ocw-studio-app/courses/9-10-cognitive-neuroscience-spring-2006/b6d05477b566561e11b846b129cd77ab_rq_limbic_system.pdf
+file: /courses/9-10-cognitive-neuroscience-spring-2006/b6d05477b566561e11b846b129cd77ab_rq_limbic_system.pdf
 file_size: 56910
 file_type: application/pdf
 learning_resource_types: []
